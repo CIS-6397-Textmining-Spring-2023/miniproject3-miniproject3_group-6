@@ -20,27 +20,27 @@ This assignment uses a data that had been downloaded from a large Global News da
 
 1. Preprocessing and exploratory data analysis
 
-*Find a way to build a corpus (e.g. load the data as large character, split up the input data into individual articles and build a corpus object containing all splitted articles)
+* Find a way to build a corpus (e.g. load the data as large character, split up the input data into individual articles and build a corpus object containing all splitted articles)
 
-*clean up the corpus, make sure you separate meta-data from the actual articles
+* clean up the corpus, make sure you separate meta-data from the actual articles
 
-*extract features
+* extract features
 
-*create summaries on the features as exploration
+* create summaries on the features as exploration
 
-*create some plots for exploration
+* create some plots for exploration
 
 You will need to preprocess the documents having in mind that they represent newspaper articles. One of the things you will need to do is tokenize the text. And this will probably be a trial and error task. For instance, you will need to separate punctuation marks from words. There may also be special headers, tags, dates, or other nuances that need to be handled properly. We will be looking into how clean your post-processed data is as part of the grading for this assignment.
 
 2. Topic modeling
 
-*create a topic model using your cleaned corpus (you may have to go back into preprocessing steps to make modifications)
+* create a topic model using your cleaned corpus (you may have to go back into preprocessing steps to make modifications)
 
-*re-run the topic modeling multiple times with different parameters and store summaries into output files
+* re-run the topic modeling multiple times with different parameters and store summaries into output files
 
-*discuss the different results in the context described in the overview statement
+* discuss the different results in the context described in the overview statement
 
-*support your findings with relevant model outputs and visualizations
+* support your findings with relevant model outputs and visualizations
 
 It is not expected from you to have full domain knowledge but please treat the analysis as you would support the journalist.
 
