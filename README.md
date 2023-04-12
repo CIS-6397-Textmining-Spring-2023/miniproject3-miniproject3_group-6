@@ -1,5 +1,4 @@
 # miniproject3_group-6
-miniproject3_group-6 created by GitHub Classroom
 
 ### Members: 
 
