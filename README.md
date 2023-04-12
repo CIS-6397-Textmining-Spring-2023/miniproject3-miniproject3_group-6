@@ -4,7 +4,7 @@
 
 #### Manish Rawat (UHID: 2084696)
 #### Temidara Agbesnawa (UHID: )
-#### Abdul Aziz Mohammed (UHID: )
+#### Abdul Aziz Mohammed (UHID: 2215231 )
 
 
 # Miniproject 3: Topic Models
