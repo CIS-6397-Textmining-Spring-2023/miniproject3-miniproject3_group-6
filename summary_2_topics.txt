@@ -1,6 +1,6 @@
 Summary for 2 topics:
 
-Topic 0: 0.011*"said" + 0.009*"mr" + 0.006*"trump" + 0.006*"state" + 0.006*"islamic" + 0.005*"new" + 0.004*"president" + 0.004*"syria" + 0.004*"people" + 0.004*"times"
+Topic 0: 0.010*"said" + 0.009*"mr" + 0.007*"trump" + 0.007*"new" + 0.006*"islamic" + 0.005*"state" + 0.004*"one" + 0.004*"people" + 0.004*"military" + 0.004*"would"
 
-Topic 1: 0.010*"said" + 0.008*"mr" + 0.007*"trump" + 0.007*"state" + 0.006*"new" + 0.005*"islamic" + 0.004*"one" + 0.004*"york" + 0.004*"american" + 0.004*"would"
+Topic 1: 0.010*"said" + 0.009*"mr" + 0.008*"state" + 0.007*"trump" + 0.006*"islamic" + 0.004*"president" + 0.004*"new" + 0.004*"syria" + 0.004*"york" + 0.004*"american"
 
